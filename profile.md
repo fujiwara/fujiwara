@@ -3,7 +3,7 @@
 Fujiwara Shunichiro
 
 - GitHub: [@fujiwara](https://github.com/fujiwara)
-- Twitter: [@fujiwara](https://twitter.com/fujiwara)
+- X (Twitter): [@fujiwara](https://twitter.com/fujiwara)
 - Blog: [sfujiwara.hatenablog.com](https://sfujiwara.hatenablog.com/)
 - Bluesky: [@fujiwara.bsky.social](https://bsky.app/profile/fujiwara.bsky.social)
 - mixi2: @sfujiwara
