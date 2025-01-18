@@ -6,7 +6,8 @@ Fujiwara Shunichiro
 - Twitter: [@fujiwara](https://twitter.com/fujiwara)
 - Blog: [sfujiwara.hatenablog.com](https://sfujiwara.hatenablog.com/)
 - Bluesky: [@fujiwara.bsky.social](https://bsky.app/profile/fujiwara.bsky.social)
-
+- mixi2: @sfujiwara
+ 
 ### 自己紹介
 
 2011年より面白法人カヤック。SREチームリーダー。主にソーシャルゲーム、自社サービスを担当。
