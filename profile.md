@@ -10,8 +10,11 @@ Fujiwara Shunichiro
  
 ### 自己紹介
 
-2025年よりさくらインターネット株式会社。2011〜2024年までは面白法人カヤックでSREに従事。
-[ISUCON](https://isucon.net)優勝4回、出題3回。最近の趣味はマネージドサービスの隙間を埋める隙間家具のようなツールをGoで作ってOSSにすること、ランニング(フルマラソン3時間28分)。
+- 2025年よりさくらインターネット株式会社。クラウド制御基盤を開発・運用している
+- 2011〜2024年までは面白法人カヤックでSREに従事
+- OSS開発者。代表作として Amazon ECSデプロイツール[ecspresso](https://github.com/kayac/ecspresso) ほか多数
+- Webパフォーマンスチューニングコンテスト[ISUCON](https://isucon.net) 優勝4回、出題3回
+- 最近の趣味はマネージドサービスの隙間を埋める隙間家具のようなツールをGoで作ってOSSにすること、ランニング
 
 ### 著書
 
@@ -23,5 +26,7 @@ Fujiwara Shunichiro
 ![icon png](fujiwara-icon4x.png)
 
 ![icon svg](fujiwara-icon4x.svg)
+
+![](portrait-yapc2025.jpg)
 
 ![](portrait.jpg)
