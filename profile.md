@@ -28,5 +28,3 @@ Fujiwara Shunichiro
 ![icon svg](fujiwara-icon4x.svg)
 
 ![](portrait-yapc2025.jpg)
-
-![](portrait.jpg)
