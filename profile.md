@@ -28,3 +28,5 @@ Fujiwara Shunichiro
 ![icon svg](fujiwara-icon4x.svg)
 
 ![](portrait-yapc2025.jpg)
+
+© Japan Perl Association / Licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
