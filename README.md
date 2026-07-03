@@ -1,2 +1,2 @@
-- [![fujiwara's github stats](https://github-readme-stats.vercel.app/api?username=fujiwara&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![fujiwara's GitHub stats](https://github-stats-extended.vercel.app/api?username=fujiwara)](https://github.com/stats-organization/github-stats-extended)
 - [自己紹介/Profile](profile.md)
