@@ -12,8 +12,8 @@ Fujiwara Shunichiro
 
 - 2025年よりさくらインターネット株式会社。クラウド制御基盤の開発・運用に従事
 - 2011〜2024年までは面白法人カヤック
-- OSS開発者。代表作として Amazon ECSデプロイツール[ecspresso](https://github.com/kayac/ecspresso) ほか多数
-- Webパフォーマンスチューニングコンテスト[ISUCON](https://isucon.net) 優勝4回、出題3回
+- OSS開発者。代表作として Amazon ECSデプロイツール [ecspresso](https://github.com/kayac/ecspresso) ほか多数
+- Webパフォーマンスチューニングコンテスト[ISUCON](https://isucon.net) 優勝4回、出題4回
 - 最近の趣味はマネージドサービスの隙間を埋める隙間家具のようなツールをGoで作ってOSSにすること、ランニング
 
 ### 著書
